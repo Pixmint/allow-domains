@@ -1,0 +1,32 @@
+name: Merge Category Lists
+
+on:
+  push:
+    paths:
+      - 'Categories/*.lst'
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Merge .lst files
+        run: |
+          # Очистим или создадим файл
+          > all-list.lst
+
+          # Объединяем все .lst-файлы в алфавитном порядке
+          for file in Categories/*.lst; do
+            cat "$file" >> all-list.lst
+            echo "" >> all-list.lst  # Добавляем пустую строку между файлами
+          done
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add all-list.lst
+          git diff --cached --quiet || git commit -m "Auto-merge category lists into all-list.lst"
+          git push
