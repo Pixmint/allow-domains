@@ -1,0 +1,60 @@
+// AI
+
+// OpenAI
+openai.com
+chatgpt.com
+oaistatic.com
+oaiusercontent.com
+chat.com
+ai.com
+chat.openai.com.cdn.cloudflare.net
+sora.chatgpt.com
+
+// Grok
+x.ai
+grok.com
+
+// Github Copilot
+github.com
+api.github.com
+copilot-telemetry.githubusercontent.com
+default.exp-tas.com
+copilot-proxy.githubusercontent.com
+origin-tracker.githubusercontent.com
+*.githubcopilot.com
+*.individual.githubcopilot.com
+*.business.githubcopilot.co
+*.enterprise.githubcopilot.com
+
+// Microsot Copilot
+copilot.microsoft.com
+*.microsoft.com.edgekey.net
+
+// Google Gemini
+googleapis.com
+speechs3proto2-pa.googleapis.com
+firebaseinstallations.googleapis.com
+proactivebackend-pa.googleapis.com
+geller-pa.googleapis.com
+assistantfrontend-pa.googleapis.com
+assistant-s3-pa.googleapis.com
+searchnotifications-pa.googleapis.com
+notifications-pa.googleapis.com
+update.googleapis.com
+lamssettings-pa.googleapis.com
+taskassist-pa.googleapis.com
+gemini.google.com
+deepmind.com
+deepmind.google
+generativelanguage.googleapis.com
+ai.google.dev
+alkalicore-pa.clients6.google.com
+alkalimakersuite-pa.clients6.google.com
+generativeai.google
+makersuite.google.com
+aistudio.google.com
+bard.google.com
+notebooklm.google.com
+
+// Other
+character.ai
