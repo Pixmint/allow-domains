@@ -10,6 +10,10 @@ ai.com
 chat.openai.com.cdn.cloudflare.net
 sora.chatgpt.com
 
+// Anthropic
+claude.ai
+anthropic.com
+
 // Grok
 x.ai
 grok.com
@@ -57,4 +61,8 @@ bard.google.com
 notebooklm.google.com
 
 // Other
+ai-chat.bsg.brave.com
+recraft.ai
+codeium.com
+lightning.ai
 character.ai

@@ -1,6 +1,6 @@
 // Service
 
-// Google & Youtube
+// Google
 googleplay.com
 play-fe.googleapis.com
 play-games.googleusercontent.com
@@ -13,23 +13,6 @@ android.clients.google.com
 prod-lt-playstoregatewayadapter-pa.googleapis.com
 beacons.gvt2.com
 gvt1.com
-
-youtube.com
-ytimg.com
-yting.com
-ggpht.com
-googlevideo.com
-youtubekids.com
-youtu.be
-youtube-nocookie.com
-wide-youtube.l.google.com
-ytimg.l.google.com
-youtubei.googleapis.com
-youtubeembeddedplayer.googleapis.com
-youtube-ui.l.google.com
-yt-video-upload.l.google.com
-jnn-pa.googleapis.com
-returnyoutubedislikeapi.com
 
 // X
 ads-twitter.com
@@ -92,6 +75,22 @@ youtrack.cbf-team.ru
 designer.microsoft.com
 xsts.auth.xboxlive.com
 
-// Other
+// VMWare
+vmware.com
+download3.omnissa.com
+omnissa.com
+
+// Canva
 canva.dev
 canva.com
+
+// Intel
+intel.com
+intel.de
+intel.nl
+
+// Other
+f95-zone.to
+proton.me
+spotify.com
+tidal.com
