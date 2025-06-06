@@ -17,10 +17,10 @@ jobs:
           # Очистим или создадим файл
           > all-list.lst
 
-          # Объединяем все .lst-файлы в алфавитном порядке
+          # Объединяем .lst-файлы в алфавитном порядке, гарантируя пустую строку между блоками
           for file in Categories/*.lst; do
-            cat "$file" >> all-list.lst
-            echo "" >> all-list.lst  # Добавляем пустую строку между файлами
+            sed -e '$a\' "$file" >> all-list.lst  # добавляет перевод строки, если нет
+            echo "" >> all-list.lst               # добавляем пустую строку между блоками
           done
 
       - name: Commit and push changes
