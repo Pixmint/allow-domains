@@ -10,6 +10,10 @@ ai.com
 chat.openai.com.cdn.cloudflare.net
 sora.chatgpt.com
 
+// Anthropic
+claude.ai
+anthropic.com
+
 // Grok
 x.ai
 grok.com
@@ -57,290 +61,61 @@ bard.google.com
 notebooklm.google.com
 
 // Other
+ai-chat.bsg.brave.com
+recraft.ai
+codeium.com
+lightning.ai
 character.ai
 
 // Anime
+
+// AniList
+anilibria.tv
+anilibria.uno
+
+// AniStars
+anistar.org
+anistars.ru
+
+// Lib
+mangalib.me
+slashlib.me
+hentailib.me
+ranobelib.me
+anilib.me
+
+// Manga / Comics
 bato.to
-gelbooru.com
-danbooru.donmai.us
 mangapark.net
+mangadex.org
+mangahub.ru
+ficbook.net
+yaoi-chan.me
+
+// Visual Novels / Dorama
 vndb.org
 dorama.live
-doramalive.ru
 doramy.club
 mydoramy.club
-mangahub.ru
-mangadex.org
-jut.su
+doramaslive.ru
+
+// Other anime
+crunchyroll.com
 animego.org
+animebest.org
+animedia.tv
 amedia.site
 yummyani.me
 kara.su
-animebest.org
-animedia.tv
-animespirit.ru
 sovetromantica.com
 adultmult.tv
+animespirit.ru
 jut.su
-jut-su.net
-slashlib.me
 anilibria.tv
-ficbook.net
-shiza-project.com
-anistars.ru
-anistar.org
-animaunt.org
-anime-portal.su
-anilibria.uno
 kemono.su
-mangadex.org
-
-// Block
-
-// Social Networks / Messengers
-
-// Private Messengers
-signal.org
-threema.ch
-simplex.chat
-simplex.im
-
-// Chats / Forums
-iichan.hk
-rf.dobrochan.net
-forum.ru-board.com
-lolz.guru
-sklatchiki.ru
-f95-zone.to
-
-// Social Networks
-linkedin.com
-licdn.com
-quora.com
-quora.com.cdn.cloudflare.net
-medium.com
-soundcloud.com
-viber.com
-webtoons.com
-
-// VPN / Anti-Censorship
-vpnlove.me
-redshieldvpn.com
-psiphon.ca
-vpngate.net
-mullvad.net
-censortracker.org
-prostovpn.org
-vpngen.org
-amnezia.org
-cyberghostvpn.com
-getoutline.org
-vpnpay.io
-protonvpn.com
-surfshark.com
-showip.net
-4freerussia.org
-botnadzor.org
-
-// Torrent Sites / Trackers
-nnmclub.to
-nnmstatic.win
-kinozal.guru
-kinozal.me
-kinozal.tv
-rutor.org
-rutor.info
-rutor.is
-rutracker.org
-rutracker.net
-rutracker.wiki
-rutracker.cc
-torrentgalaxy.to
-filmitorrent.net
-fast-torrent.club
-selezen.org
-booktracker.org
-riperam.org
-megapeer.vip
-megapeer.ru
-piratbit.top
-1337x.to
-btdig.com
-
-// Cloud Storage / File Sharing
-gofile.io
-archive.ph
-rentry.co
-zbigz.com
-annas-archive.org
-flibusta.is
-flibusta.net
-sci-hub.se
-sci-hub.st
-libgen.li
-archiveofourown.org
-
-// Email / Anonymous Mail
-mailo.com
-cock.li
-mailfence.com
-proton.me
-tuta.com
-tuta.io
-10minutemail.com
-
-// Web Development / IT
-pages.dev
-leafletjs.com
-designify.com
-ntc.party
-dpidetector.org
-notepad-plus-plus.org
-linear.app
-lucid.app
-quickconnect.to
-render-state.to
-startpage.com
-searchfloor.org
-statology.org
-
-// Video / Streaming / Content
-liveuamap.com
-iptv.online
-kinogo.uk
-kinogo.ec
-filmix.ac
-filmix.biz
-filmix.fm
-filmix.day
-filmix.la
-api.service-kp.com
-kino.pub
-lostfilm.tv
-lostfilmtv2.site
-static.lostfilm.top
-anidub.com
-hdkinoteatr.com
-le-production.tv
-pimpletv.ru
-knews.kg
-ilook.tv
-livetv.sx
-prnt.sc
-
-// Education / Science
-coursera.org
-nih.gov
-iedb.org
-opensanctions.org
-refactoring.guru
-interactivebrokers.co.uk
-wilsoncenter.org
-carnegieendowment.org
-academy.terrasoft.ua
-navalny.com
-edu-cisco.org
-seasonvar.ru
-bestchange.ru
-
-// Finance / Cryptocurrency
-okx.com
-coinpayments.net
-decrypt.day
-polymarket.com
-coinsbee.com
-5sim.net
-cbilling.vip
-cbilling.eu
-
-// E-commerce / Marketplaces
-temu.com
-allegro.pl
-kupujemprodajem.com
-depositphotos.com
-deviantart.com
-patreon.com
+anime-portal.su
+animaunt.org
 shiza-project.com
-aol.com
-capcut.com
-chess.com
-digikey.com
-
-// Hosting / Domains
-hostgator.com
-networksolutions.com
-dreamhost.com
-bluehost.com
-ionos.com
-digitalocean.com
-godaddy.com
-hetzner.com
-adminforge.de
-ukr.net
-ukrtelcdn.net
-as6723.net
-
-// Search Engines / Indexing
-startpage.com
-searchfloor.org
-
-// News / Media Outlets
-gagadget.com
-vice.com
-flipboard.com
-mashable.com
-ign.com
-neformat.com.ua
-baikal-journal.ru
-deepstatemap.live
-rublacklist.net
-
-// Analytics / SEO / Marketing
-ahrefs.com
-zendesk.com
-clickup.com
-olx.ua
-saverudata.net
-
-// Security / Antivirus
-malwarebytes.com
-adguard.com
-avira.com
-trellix.com
-
-// Music / Audio
-musixmatch.com
-more.fm
-trueblackmetalradio.com
-novaline.fm
-bcbits.com
-
-// Other
-onlinesim.io
-linktr.ee
-spreadthesign.com
-simplix.info
-amdm.ru
-sap.com
-infineon.com
-squietpc.com
-element14.com
-baginya.org
-kamatera.com
-exler.ru
-forklog.com
-nhl.com
-windows10spotlight.com
-epidemz.net.co
-ohmyswift.ru
-privatekeys.pw
-abook-club.ru
-knowyourmeme.com
-kym-cdn.com
-goodreads.com
-gr-assets.com
-freedomletters.org
-babook.org
 
 // Game
 
@@ -355,45 +130,6 @@ squadbustersgame.com
 steamstat.info
 gamesrepack.com
 gamedistribution.com
-
-// Movie
-
-// HDrezka
-hdrezka.ag
-hdrezka.ac
-hdrezka.me
-hd-rezka.tv
-voidboost.cc
-rezka.ag
-rezka.my
-rezkify.com
-rezka-ua.in
-
-// Netflix
-fast.com
-netflix.ca
-netflix.com
-netflix.net
-netflixinvestor.com
-netflixtechblog.com
-nflxext.com
-nflximg.com
-nflximg.net
-nflxsearch.net
-nflxso.net
-nflxvideo.net
-
-// TMDB
-theaudiodb.com
-themoviedb.org
-tmdb.org
-tmdb.com
-image.tmdb.org
-api.themoviedb.org
-tmdb-image-prod.b-cdn.net
-
-// Other
-cub.red
 
 // Porn
 xvideos.com
@@ -429,10 +165,12 @@ e621.net
 nhentai.net
 imhentai.xxx
 hdporncomics.com
+gelbooru.com
+danbooru.donmai.us
 
 // Service
 
-// Google & Youtube
+// Google
 googleplay.com
 play-fe.googleapis.com
 play-games.googleusercontent.com
@@ -445,23 +183,6 @@ android.clients.google.com
 prod-lt-playstoregatewayadapter-pa.googleapis.com
 beacons.gvt2.com
 gvt1.com
-
-youtube.com
-ytimg.com
-yting.com
-ggpht.com
-googlevideo.com
-youtubekids.com
-youtu.be
-youtube-nocookie.com
-wide-youtube.l.google.com
-ytimg.l.google.com
-youtubei.googleapis.com
-youtubeembeddedplayer.googleapis.com
-youtube-ui.l.google.com
-yt-video-upload.l.google.com
-jnn-pa.googleapis.com
-returnyoutubedislikeapi.com
 
 // X
 ads-twitter.com
@@ -524,7 +245,83 @@ youtrack.cbf-team.ru
 designer.microsoft.com
 xsts.auth.xboxlive.com
 
-// Other
+// VMWare
+vmware.com
+download3.omnissa.com
+omnissa.com
+
+// Canva
 canva.dev
 canva.com
+
+// Intel
+intel.com
+intel.de
+intel.nl
+
+// Other
+f95-zone.to
+proton.me
+
+// Movie
+
+// Youtube
+youtube.com
+ytimg.com
+yting.com
+ggpht.com
+googlevideo.com
+youtubekids.com
+youtu.be
+youtube-nocookie.com
+wide-youtube.l.google.com
+ytimg.l.google.com
+youtubei.googleapis.com
+youtubeembeddedplayer.googleapis.com
+youtube-ui.l.google.com
+yt-video-upload.l.google.com
+jnn-pa.googleapis.com
+returnyoutubedislikeapi.com
+
+// HDrezka
+hdrezka.ag
+hdrezka.ac
+hdrezka.me
+hd-rezka.tv
+voidboost.cc
+rezka.ag
+rezka.my
+rezkify.com
+rezka-ua.in
+
+// Netflix
+fast.com
+netflix.ca
+netflix.com
+netflix.net
+netflixinvestor.com
+netflixtechblog.com
+nflxext.com
+nflximg.com
+nflximg.net
+nflxsearch.net
+nflxso.net
+nflxvideo.net
+
+// TMDB
+theaudiodb.com
+themoviedb.org
+tmdb.org
+tmdb.com
+image.tmdb.org
+api.themoviedb.org
+tmdb-image-prod.b-cdn.net
+
+// Disney+
+disneyplus.com
+hbomax.com
+
+// Other
+cub.red
+max.com
 
