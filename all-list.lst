@@ -1,0 +1,330 @@
+// AI
+
+// OpenAI
+openai.com
+chatgpt.com
+oaistatic.com
+oaiusercontent.com
+chat.com
+ai.com
+chat.openai.com.cdn.cloudflare.net
+sora.chatgpt.com
+
+// Anthropic
+claude.ai
+anthropic.com
+
+// Grok
+x.ai
+grok.com
+
+// Github Copilot
+github.com
+api.github.com
+copilot-telemetry.githubusercontent.com
+default.exp-tas.com
+copilot-proxy.githubusercontent.com
+origin-tracker.githubusercontent.com
+*.githubcopilot.com
+*.individual.githubcopilot.com
+*.business.githubcopilot.co
+*.enterprise.githubcopilot.com
+
+// Microsot Copilot
+copilot.microsoft.com
+*.microsoft.com.edgekey.net
+
+// Google Gemini
+googleapis.com
+speechs3proto2-pa.googleapis.com
+firebaseinstallations.googleapis.com
+proactivebackend-pa.googleapis.com
+geller-pa.googleapis.com
+assistantfrontend-pa.googleapis.com
+assistant-s3-pa.googleapis.com
+searchnotifications-pa.googleapis.com
+notifications-pa.googleapis.com
+update.googleapis.com
+lamssettings-pa.googleapis.com
+taskassist-pa.googleapis.com
+gemini.google.com
+deepmind.com
+deepmind.google
+generativelanguage.googleapis.com
+ai.google.dev
+alkalicore-pa.clients6.google.com
+alkalimakersuite-pa.clients6.google.com
+generativeai.google
+makersuite.google.com
+aistudio.google.com
+bard.google.com
+notebooklm.google.com
+
+// Other
+ai-chat.bsg.brave.com
+recraft.ai
+codeium.com
+lightning.ai
+character.ai
+
+// Anime
+
+// AniList
+anilibria.tv
+anilibria.uno
+
+// AniStars
+anistar.org
+anistars.ru
+
+// Lib
+mangalib.me
+slashlib.me
+hentailib.me
+ranobelib.me
+anilib.me
+
+// Manga / Comics
+bato.to
+mangapark.net
+mangadex.org
+mangahub.ru
+ficbook.net
+yaoi-chan.me
+
+// Visual Novels / Dorama
+vndb.org
+dorama.live
+doramy.club
+mydoramy.club
+doramaslive.ru
+
+// Other anime
+crunchyroll.com
+animego.org
+animebest.org
+animedia.tv
+amedia.site
+yummyani.me
+kara.su
+sovetromantica.com
+adultmult.tv
+animespirit.ru
+jut.su
+anilibria.tv
+kemono.su
+anime-portal.su
+animaunt.org
+shiza-project.com
+
+// Game
+
+// Supercell
+supercell.com
+clashofclans.com
+brawlstarsgame.com
+clashroyaleapp.com
+squadbustersgame.com
+
+// Game Platforms
+steamstat.info
+gamesrepack.com
+gamedistribution.com
+
+// NSWF
+xvideos.com
+hqporner.com
+attachments.f95zone.to
+reddxxx.com
+redgifs.com
+xv-ru.com
+pornhub.com
+pornhub.org
+phncdn.com
+phncdn.com.sds.rncdn7.com
+playboy.com
+multporn.net
+rule34.art
+hentai-foundry.com
+nhentai.com
+chaturbate.com
+pornolab.net
+xhamster.com
+xhamsterlive.com
+coomer.su
+vipergirls.to
+rentry.org
+xnxx.com
+xnxx.net
+xnxx.tv
+xnxx3.com
+xnxx-cdn.com
+xvideos-cdn.com
+rule34.xxx
+e621.net
+nhentai.net
+imhentai.xxx
+hdporncomics.com
+gelbooru.com
+danbooru.donmai.us
+
+// Service
+
+// Google
+googleplay.com
+play-fe.googleapis.com
+play-games.googleusercontent.com
+play-lh.googleusercontent.com
+play.google.com
+play.googleapis.com
+lh3.googleusercontent.com
+connectivitycheck.gstatic.com
+android.clients.google.com
+prod-lt-playstoregatewayadapter-pa.googleapis.com
+beacons.gvt2.com
+gvt1.com
+
+// X
+ads-twitter.com
+cms-twdigitalassets.com
+periscope.tv
+pscp.tv
+t.co
+tellapart.com
+tweetdeck.com
+twimg.com
+twitpic.com
+twitter.biz
+twitter.com
+twitter.jp
+twittercommunity.com
+twitterflightschool.com
+twitterinc.com
+twitteroauth.com
+twitterstat.us
+twtrdns.net
+twttr.com
+twttr.net
+twvid.com
+vine.co
+x.com
+
+// Meta
+instagram.com
+ig.me
+facebook.com
+facebook.net
+cdninstagram.com
+fbcdn.net
+fbsbx.com
+internalfb.com
+oculus.com
+meta.com
+threads.net
+fb.com
+
+// LK
+linkedin.com
+licdn.com
+
+// Notion
+notion.so
+notion.com
+notion.new
+notion.site
+notion-static.com
+
+// JetBrains
+jetbrains.com
+myjetbrains.com
+jetbrains.space
+api.jetbrains.ai
+youtrack.cbf-team.ru
+
+// Microsot
+designer.microsoft.com
+xsts.auth.xboxlive.com
+
+// VMWare
+vmware.com
+download3.omnissa.com
+omnissa.com
+
+// Canva
+canva.dev
+canva.com
+
+// Intel
+intel.com
+intel.de
+intel.nl
+
+// Other
+f95-zone.to
+proton.me
+spotify.com
+tidal.com
+elgato.com
+
+// Movie
+
+// Youtube
+youtube.com
+ytimg.com
+yting.com
+ggpht.com
+googlevideo.com
+youtubekids.com
+youtu.be
+youtube-nocookie.com
+wide-youtube.l.google.com
+ytimg.l.google.com
+youtubei.googleapis.com
+youtubeembeddedplayer.googleapis.com
+youtube-ui.l.google.com
+yt-video-upload.l.google.com
+jnn-pa.googleapis.com
+returnyoutubedislikeapi.com
+
+// HDrezka
+hdrezka.ag
+hdrezka.ac
+hdrezka.me
+hd-rezka.tv
+voidboost.cc
+rezka.ag
+rezka.my
+rezkify.com
+rezka-ua.in
+
+// Netflix
+fast.com
+netflix.ca
+netflix.com
+netflix.net
+netflixinvestor.com
+netflixtechblog.com
+nflxext.com
+nflximg.com
+nflximg.net
+nflxsearch.net
+nflxso.net
+nflxvideo.net
+
+// TMDB
+theaudiodb.com
+themoviedb.org
+tmdb.org
+tmdb.com
+image.tmdb.org
+api.themoviedb.org
+tmdb-image-prod.b-cdn.net
+
+// Disney+
+disneyplus.com
+hbomax.com
+
+// Other
+cub.red
+max.com
+
