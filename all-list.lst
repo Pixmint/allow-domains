@@ -262,7 +262,7 @@ intel.com
 intel.de
 intel.nl
 
-//Zoe
+// Zoe
 zoeapp.co
 login.zoe-app.com
 help.zoe-app.com
@@ -279,7 +279,7 @@ events.zoe-app.com
 terms.zoe-app.com
 privacy.zoe-app.com
 
-//Her
+// Her
 weareher.com
 her.app
 www.herapp.com
@@ -298,7 +298,7 @@ her-app.com
 her.net
 her.mobi
 
-//Hornet
+// Hornet
 login.hornet.com
 app.hornet.com
 web.hornet.com
@@ -316,13 +316,19 @@ dashboard.hornet.com
 terms.hornet.com
 privacy.hornet.com
 
+// DeepL
+*.deepl.com
+deepl.com
+www.deepl.com
+api.deepl.com
+api-free.deepl.com
+
 // Other
 f95-zone.to
 proton.me
 spotify.com
 tidal.com
 elgato.com
-deepl.com
 
 // Movie
 
