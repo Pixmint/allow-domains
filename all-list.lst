@@ -332,6 +332,26 @@ spotify.com
 tidal.com
 elgato.com
 
+// Autodesk
+*.autodesk.com
+*.autodesk.eu
+*.plangrid.be
+*.plangrid.com
+*.planfront.com
+*.cloudfront.net
+*.launchdarkly.com
+*.segment.com
+*.segment.io
+*.bugsnag.com
+*.solvvy.com
+*.fullstory.com
+*.newrelic.com
+*.nr-data.net
+*.pendo.io
+https://plangrid.my.site.com
+https://u7990385.ct.sendgrid.net
+*.dynatrace.com 
+
 // Movie
 
 // Youtube
