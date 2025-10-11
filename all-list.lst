@@ -319,11 +319,30 @@ terms.hornet.com
 privacy.hornet.com
 
 // DeepL
-*.deepl.com
 deepl.com
 www.deepl.com
 api.deepl.com
 api-free.deepl.com
+
+// Autodesk
+autodesk.com
+autodesk.eu
+plangrid.be
+plangrid.com
+planfront.com
+cloudfront.net
+launchdarkly.com
+segment.com
+segment.io
+bugsnag.com
+solvvy.com
+fullstory.com
+newrelic.com
+nr-data.net
+pendo.io
+plangrid.my.site.com
+u7990385.ct.sendgrid.net
+dynatrace.com 
 
 // Other
 f95-zone.to
@@ -331,26 +350,6 @@ proton.me
 spotify.com
 tidal.com
 elgato.com
-
-// Autodesk
-*.autodesk.com
-*.autodesk.eu
-*.plangrid.be
-*.plangrid.com
-*.planfront.com
-*.cloudfront.net
-*.launchdarkly.com
-*.segment.com
-*.segment.io
-*.bugsnag.com
-*.solvvy.com
-*.fullstory.com
-*.newrelic.com
-*.nr-data.net
-*.pendo.io
-https://plangrid.my.site.com
-https://u7990385.ct.sendgrid.net
-*.dynatrace.com 
 
 // Movie
 
