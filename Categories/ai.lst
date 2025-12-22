@@ -18,18 +18,6 @@ anthropic.com
 x.ai
 grok.com
 
-// Github Copilot
-github.com
-api.github.com
-copilot-telemetry.githubusercontent.com
-default.exp-tas.com
-copilot-proxy.githubusercontent.com
-origin-tracker.githubusercontent.com
-*.githubcopilot.com
-*.individual.githubcopilot.com
-*.business.githubcopilot.co
-*.enterprise.githubcopilot.com
-
 // Microsot Copilot
 copilot.microsoft.com
 *.microsoft.com.edgekey.net
