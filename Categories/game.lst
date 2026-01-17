@@ -21,6 +21,29 @@ atum.hac.lp1.d4c.nintendo.net
 api.lp1.av5ja.srv.nintendo.net
 api.lp1.pctl.srv.nintendo.net
 
+// Xbox / Microsoft
+xboxlive.com
+xbox.com
+account.xbox.com
+login.live.com
+login.microsoftonline.com
+store.xbox.com
+assets.xboxlive.com
+profiles.xboxlive.com
+social.xboxlive.com
+titlehub.xboxlive.com
+gameclipsmetadata.xboxlive.com
+notify.xboxlive.com
+userpresence.xboxlive.com
+xsts.auth.xboxlive.com
+microsoft.com
+microsoftonline.com
+live.com
+windows.com
+msftncsi.com
+vortex.data.microsoft.com
+settings-win.data.microsoft.com
+
 // Game Platforms
 steamstat.info
 gamesrepack.com
