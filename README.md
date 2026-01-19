@@ -4,7 +4,9 @@
 
 ## Сырой (raw) файл со списком доменов
 Скачать/использовать raw-версию файла:
+```
 https://raw.githubusercontent.com/Pixmint/allow-domains/refs/heads/main/all-list.lst
+```
 
 Пример загрузки через curl:
 
